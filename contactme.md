@@ -1,15 +1,5 @@
-<!doctype html>
-<html>
-<head>
-<meta charset="utf-8">
-<title>Untitled Document</title>
-	<link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	
-</head>
 
-<body>
 	<form class="pure-form pure-form-stacked"   action="https://formspree.io/mzbegedz"
   method="POST">
 		<p>First Name
@@ -31,5 +21,3 @@
 			<input type="submit" value="Submit"  class="pure-button pure-button-primary"/>
 		</p>
 	</form>
-</body>
-</html>
