@@ -1,4 +1,6 @@
-
+---
+layout: default
+---
 
 	<form class="pure-form pure-form-stacked"   action="https://formspree.io/mzbegedz"
   method="POST">
