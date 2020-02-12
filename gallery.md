@@ -24,12 +24,12 @@ In here is a display of the work I have done in the past.
   <a target="_blank" href="assets/gallery/3.png">
     <img src="assets/gallery/3_thumb.png" alt="example 1">
   </a>
-  <div class="desc">This is the third character, Icia, she uses her sword and can summon a skeletal</div>
+  <div class="desc">This is the third character, Icia, she uses her sword and can summon a skeletal minion</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/4.png">
     <img src="assets/gallery/4_thumb.png" alt="example 1">
   </a>
-  <div class="desc">Add a description of the image here</div>
+  <div class="desc">This is the fourth character, Manor, she uses a minigun that has two rates of fire</div>
 </div>
