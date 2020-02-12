@@ -7,7 +7,7 @@ layout: form
 ## Social Media Links
 
 ### Twitter
-[Link] (https://twitter.com/HexGames2)
+[Link](https://twitter.com/HexGames2)
 
 ### Youtube
-[Link] (https://www.youtube.com/channel/UCTLK6bsmV1E119sHgorGvSg)
+[Link](https://www.youtube.com/channel/UCTLK6bsmV1E119sHgorGvSg)
