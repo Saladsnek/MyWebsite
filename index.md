@@ -8,6 +8,8 @@ I love exploring both Sci-fi and Fantasy settings, both on their own and togethe
 
 I enjoy playing games like World of Warcraft, Borderlands 2 and Fallout 4 as they provide engaging gameplay and interesting stories to go with them. These games offer unique themes that provoke questions and place you in the boots of the character you are playing as. This roleplaying aspect is what grabs me in these sorts of games.
 
+I also have an interest in 
+
 I know how to code a bit in C# and Python Idle but I want to learn Javascript and C++ as well. 
 
 Below is a link to the current version of my game
