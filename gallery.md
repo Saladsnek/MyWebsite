@@ -33,3 +33,10 @@ In here is a display of the work I have done in the past.
   </a>
   <div class="desc">This is the fourth character, Manor, she uses a minigun that has two rates of fire</div>
 </div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/4.png">
+    <img src="assets/gallery/4_thumb.png" alt="example 1">
+  </a>
+  <div class="desc">This is the character I designed for my game, Paradise Pollution. The intent was to use my games character was to establish the target market</div>
+</div>
