@@ -42,15 +42,15 @@ In here is a display of the work I have done in the past.
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/gallery/4.png">
-    <img src="assets/gallery/4_thumb.png" alt="example 1">
+  <a target="_blank" href="assets/gallery/GamePhoto1.PNG">
+    <img src="assets/gallery/GamePhoto1.PNG" alt="example 1">
   </a>
   <div class="desc">This is the character I designed for my game, Paradise Pollution. The intent was to use my games character was to establish the target market</div>
 </div>
 
 <div class="gallery">
-  <a target="_blank" href="assets/gallery/4.png">
-    <img src="assets/gallery/4_thumb.png" alt="example 1">
+  <a target="_blank" href="assets/gallery/GamePhoto2.PNG">
+    <img src="assets/gallery/GamePhoto2.PNG" alt="example 1">
   </a>
   <div class="desc">This is the character I designed for my game, Paradise Pollution. The intent was to use my games character was to establish the target market</div>
 </div>
