@@ -54,3 +54,5 @@ In here is a display of the work I have done in the past.
   </a>
   <div class="desc">This is the character I designed for my game, Paradise Pollution. The intent was to use my games character was to establish the target market</div>
 </div>
+
+[https://youtu.be/z98nSfBSZOo](Link to a video of my game)
