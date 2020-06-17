@@ -45,14 +45,14 @@ In here is a display of the work I have done in the past.
   <a target="_blank" href="assets/gallery/GamePhoto1.PNG">
     <img src="assets/gallery/GamePhoto1.PNG" alt="example 1">
   </a>
-  <div class="desc">This is the character I designed for my game, Paradise Pollution. The intent was to use my games character was to establish the target market</div>
+  <div class="desc">This image shows a small snippet of the island, showing the small bed and the water pump, used for increasing your hydration level!</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/GamePhoto2.PNG">
     <img src="assets/gallery/GamePhoto2.PNG" alt="example 1">
   </a>
-  <div class="desc">This is the character I designed for my game, Paradise Pollution. The intent was to use my games character was to establish the target market</div>
+  <div class="desc">This image shows some pollution on the island</div>
 </div>
 
 Below is a link to a short video of my game:
