@@ -14,4 +14,8 @@ I know how to code a bit in C# and Python Idle but I want to learn Javascript an
 
 Below is a link to the current version of my game
 
-<a href="game.html"><Paradise Pollution: Play/a>
+<a href="game.html"><Paradise Pollution: Play>
+
+Below is a link to my "horror" game
+
+<a href="WebGLBuildForPracProj/horror.html"><Descent: Play>
