@@ -16,6 +16,6 @@ Below is a link to the current version of my game
 
 <a href="game.html">Paradise Pollution: Play</a>
 
-Below is a link to my "horror" game
+Below is a link to my horror game
 
 <a href="WebGLBuildForPracProj/horror.html">Descent: Play</a>
