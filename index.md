@@ -22,4 +22,4 @@ Below is a link to my horror game
 
 Below is a link to my Practice/"Gamejam" game
 
-<a href="WebGLForGameJam/index.html">Harambe Secruity Simulator: Play</a>
+<a href="WebGLForGameJam/GameJam.html">Harambe Secruity Simulator: Play</a>
