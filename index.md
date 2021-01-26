@@ -19,3 +19,7 @@ Below is a link to the current version of my game
 Below is a link to my horror game
 
 <a href="WebGLBuildForPracProj/horror.html">Descent: Play</a>
+
+Below is a link to my Practice/"Gamejam" game
+
+<a href="WebGLForGameJam/horror.html">Harambe Secruity Simulator: Play</a>
