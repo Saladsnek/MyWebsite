@@ -26,4 +26,4 @@ Below is a link to my Practice/"Gamejam" game, sound warning on the main menu, a
 
 Below is a link to my Test for my project, Demons VS Seagulls game.
 
-<a href="DVSWebGLBuild/index.html">Harambe Secruity Simulator: Play</a>
+<a href="DVSWebGLBuild/index.html">Demons VS Seagulls: Play</a>
