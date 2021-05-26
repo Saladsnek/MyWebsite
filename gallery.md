@@ -55,6 +55,13 @@ In here is a display of the work I have done in the past.
   <div class="desc">This image shows some pollution on the island</div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/Character_Jeremias Amalthea-1.png">
+    <img src="assets/gallery/Character_Jeremias Amalthea-1.png" alt="example 1">
+  </a>
+  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+</div>
+
 Below is a link to a short video of my game:
 
 https://youtu.be/z98nSfBSZOo
