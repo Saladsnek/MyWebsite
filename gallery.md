@@ -66,35 +66,35 @@ In here is a display of the work I have done in the past.
   <a target="_blank" href="assets/gallery/Mechagull-1.png.png">
     <img src="assets/gallery/Mechagull-1.png.png" alt="example 1">
   </a>
-  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+  <div class="desc">This is the tanky enemy, The Mechagull, Developed and deployed by the Seagull king to protect his fragile kin.</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/SeagullBase.png">
     <img src="assets/gallery/SeagullBase.png" alt="example 1">
   </a>
-  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+  <div class="desc">This is the basic seagull enemy, loyal to the last to the Seagull King.</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/Rifle-1.png.png">
     <img src="assets/gallery/Rifle-1.png.png" alt="example 1">
   </a>
-  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+  <div class="desc">This is the main weapon, average in every department.</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/DemonSaber-1.png.png">
     <img src="assets/gallery/DemonSaber-1.png.png" alt="example 1">
   </a>
-  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+  <div class="desc">This is the melee weapon, powerful, but short ranged.</div>
 </div>
 
 <div class="gallery">
   <a target="_blank" href="assets/gallery/Autogun-1.png.png">
     <img src="assets/gallery/Autogun-1.png.png" alt="example 1">
   </a>
-  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+  <div class="desc">This is the automatic weapon, fast as all hell, but weaker on a single shot.</div>
 </div>
 
 
