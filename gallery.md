@@ -62,6 +62,42 @@ In here is a display of the work I have done in the past.
   <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
 </div>
 
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/Mechagull-1.png.png">
+    <img src="assets/gallery/Mechagull-1.png.png" alt="example 1">
+  </a>
+  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/Character_ Jeremias Amalthea-1.png.png">
+    <img src="assets/gallery/Character_ Jeremias Amalthea-1.png.png" alt="example 1">
+  </a>
+  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/Character_ Jeremias Amalthea-1.png.png">
+    <img src="assets/gallery/Character_ Jeremias Amalthea-1.png.png" alt="example 1">
+  </a>
+  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/Character_ Jeremias Amalthea-1.png.png">
+    <img src="assets/gallery/Character_ Jeremias Amalthea-1.png.png" alt="example 1">
+  </a>
+  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+</div>
+
+<div class="gallery">
+  <a target="_blank" href="assets/gallery/Character_ Jeremias Amalthea-1.png.png">
+    <img src="assets/gallery/Character_ Jeremias Amalthea-1.png.png" alt="example 1">
+  </a>
+  <div class="desc">This is the main character, Jeremias Amalthea, sent by the Demon King himself to exterminate the Seagull King.</div>
+</div>
+
+
 Below is a link to a short video of my game:
 
 https://youtu.be/z98nSfBSZOo
