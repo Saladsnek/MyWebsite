@@ -55,6 +55,10 @@ In here is a display of the work I have done in the past.
   <div class="desc">This image shows some pollution on the island</div>
 </div>
 
+below is a link to Paradise pollutions video
+
+https://youtu.be/z98nSfBSZOo
+
 <div class="gallery">
   <a target="_blank" href="assets/gallery/Character_ Jeremias Amalthea-1.png.png">
     <img src="assets/gallery/Character_ Jeremias Amalthea-1.png.png" alt="example 1">
@@ -97,7 +101,7 @@ In here is a display of the work I have done in the past.
   <div class="desc">This is the automatic weapon, fast as all hell, but weaker on a single shot.</div>
 </div>
 
-
 Below is a link to a short video of my game:
 
-https://youtu.be/z98nSfBSZOo
+https://youtu.be/FovAd0AFFbQ
+
