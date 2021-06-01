@@ -109,5 +109,5 @@ https://youtu.be/FovAd0AFFbQ
   <a target="_blank" href="assets/gallery/Autogun-1.png.png">
     <img src="assets/gallery/fml.PNG" alt="example 1">
   </a>
-  <div class="desc">This is the automatic weapon, fast as all hell, but weaker on a single shot.</div>
+  <div class="desc">This is an image of my game, the player and the Mechagull.</div>
 </div>
